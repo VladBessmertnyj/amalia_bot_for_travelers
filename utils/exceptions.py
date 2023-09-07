@@ -1,0 +1,2 @@
+class HotelsNotFoundError(Exception):
+    pass
